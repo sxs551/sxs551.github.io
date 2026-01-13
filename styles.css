@@ -1,0 +1,28 @@
+:root {
+  --bg: #eefaff;
+  --accent: #003e70;
+  --muted: #5b6b7a;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  margin: 0;
+  padding: 2rem;
+  color: #102a43;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.lead { color: var(--muted); }
+
+button {
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
