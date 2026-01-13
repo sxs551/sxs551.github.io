@@ -11,3 +11,45 @@ github_username: "YOURUSERNAME"
 linkedin_username: "YOUR-LINKEDIN-SLUG"
 
 darkmode: true
+
+about_profile_image: images/profile.jpg
+about_content: |
+  Front-end developer specializing in Drupal theming, component-driven UI, accessibility, and performance.
+  I build maintainable design systems and ship reliable interfaces with modern CSS and JavaScript.
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: Design System / Component Library
+        sub_title: Drupal + Storybook-style workflow
+        caption: 2024 – 2025
+        description: |
+          Built reusable UI components, documented patterns, and improved delivery speed across teams.
+
+      - layout: left
+        title: Site Redesign + Accessibility Upgrade
+        sub_title: WCAG improvements, performance, and UX polish
+        caption: 2023 – 2024
+        description: |
+          Refactored front-end build, improved Lighthouse scores, and implemented accessible interaction patterns.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Front-End Developer
+        sub_title: Drupal / UI Engineering
+        caption: 2018 – Present
+        description: |
+          • Drupal 8–10 theming with Twig, Sass, and JS  
+          • Responsive, accessible UI implementation  
+          • Component-based approach to reduce regressions
+
+  - title: Skills
+    layout: text
+    content: |
+      **Drupal:** Twig theming, component patterns, site building collaboration  
+      **Front End:** HTML, CSS/Sass, JavaScript, accessibility, performance  
+      **Workflow:** Git/GitHub, code review, CI/CD basics
