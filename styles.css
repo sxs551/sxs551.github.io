@@ -9,7 +9,7 @@ body {
   background: var(--bg);
   margin: 0;
   padding: 2rem;
-  color: #102a43;
+  color: #102a43;  text-align: center;
 }
 
 header {
