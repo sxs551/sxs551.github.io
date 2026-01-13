@@ -1,4 +1,6 @@
 remote_theme: sproogen/modern-resume-theme
+url: "https://sxs551.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-remote-theme
