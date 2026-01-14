@@ -6,14 +6,14 @@ plugins:
   - jekyll-remote-theme
 
 title: "Experienced web designer since 1997"
-name: "Stefanie Seasholtz"
-email: "sxs551@psu.edu"
+name: "test"
+email: ""
 website: "https://sxs551.github.io/"
 github_username: "sxs551"
 
 darkmode: false
 
-about_profile_image: profile.png
+about_profile_image: images/profile.png
 about_content: |
   Do you need help making your Geocities or Angelfire fansite? I can help! 
 
