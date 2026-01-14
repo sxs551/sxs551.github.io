@@ -5,8 +5,8 @@ baseurl: ""
 plugins:
   - jekyll-remote-theme
 
-title: "Stefanie Seasholtz"
-name: "Applications Developer"
+title: "Experienced web designer since 1997"
+name: "Stefanie Seasholtz"
 email: "sxs551@psu.edu"
 website: "https://sxs551.github.io/"
 github_username: "sxs551"
@@ -15,8 +15,7 @@ darkmode: false
 
 about_profile_image: profile.png
 about_content: |
-  Applicaitons developer specializing in Drupal theming, component-driven UI, accessibility, and performance.
-  I build maintainable design systems and ship reliable interfaces with modern CSS and JavaScript.
+  Do you need help making your Geocities or Angelfire fansite? I can help! 
 
 content:
   - title: Projects
