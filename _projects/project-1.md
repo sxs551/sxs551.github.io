@@ -1,6 +1,6 @@
 ---
 title: Project One
-image: /assets/images/project1.png
+image: /assets/images/profile.png
 description: A short description of what this project is.
 ---
 
