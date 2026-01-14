@@ -1,12 +1,12 @@
-- name: Applications
+- name: Portfolio
   projects:
-    - name: Nebula
-      description: Nebula provides a simplified dashboard to manage servers on AWS.
+    - name:  The Methodology Center, Penn State
+      description:  Research, Higher Education
       github: youruser/nebula
       homepage: https://example.com
       documentation: https://docs.example.com
-      icon: fas fa-cloud
-
+      image: assets/images/projects/method.jpg
+      
     - name: GitConsensus
       description: Automates project governance on GitHub using reactions.
       github: youruser/gitconsensus
