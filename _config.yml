@@ -9,6 +9,6 @@ plugins:
 email: sxs551@psu.edu
 github_username: sxs551
 
-header_links:
+nav:
   - title: About
     url: /about
