@@ -1,0 +1,9 @@
+title: "Your Name"
+description: "Portfolio"
+remote_theme: tedivm/jekyll-theme-portfolio
+
+plugins:
+  - jekyll-remote-theme
+
+email: you@example.com
+github_username: YOURUSERNAME
