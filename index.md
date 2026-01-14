@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: resume
 title: "Stefanie Seasholtz"
 ---
