@@ -17,7 +17,7 @@ about_profile_image: profile.png
 about_content: |
   Do you need help making your Geocities or Angelfire fansite? I can help! 
 
-content:
+content_sections:
   - title: Projects
     layout: list
     content:
@@ -43,13 +43,13 @@ content:
         sub_title: Drupal / UI Engineering
         caption: 2018 – Present
         description: |
-          • Drupal 8–10 theming with Twig, Sass, and JS  
-          • Responsive, accessible UI implementation  
-          • Component-based approach to reduce regressions
+          Drupal 8-10 theming with Twig, Sass, and JS
+          Responsive, accessible UI implementation
+          Component-based approach to reduce regressions
 
   - title: Skills
     layout: text
     content: |
-      **Drupal:** Twig theming, component patterns, site building collaboration  
-      **Front End:** HTML, CSS/Sass, JavaScript, accessibility, performance  
+      **Drupal:** Twig theming, component patterns, site building collaboration
+      **Front End:** HTML, CSS/Sass, JavaScript, accessibility, performance
       **Workflow:** Git/GitHub, code review, CI/CD basics
