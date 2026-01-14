@@ -1,5 +1,16 @@
 - name: Portfolio
   projects:
+
+    - name: Penn State Learning
+      description:  Higher Education
+      github: youruser/gitconsensus
+      image: psl.jpg 
+      
+    - name: University Learning Center
+      description:  Higher Education
+      github: youruser/gitconsensus
+      image: ulc.jpg
+
     - name:  The Methodology Center, Penn State
       description:  Research, Higher Education
       github: youruser/nebula
@@ -7,19 +18,7 @@
       documentation: https://docs.example.com
       image: method.jpg
       
-    - name: Penn State Learning
-      description:  Higher Education
-      github: youruser/gitconsensus
-      image: psl.jpg
-
     - name: Metaphorical Ink
       description:  Author
       github: youruser/gitconsensus
-      image: mi.jpg    
-      
-    - name: University Learning Center
-      description:  Higher Education
-      github: youruser/gitconsensus
-      image: ulc.jpg
-
-
+      image: mi.jpg  
