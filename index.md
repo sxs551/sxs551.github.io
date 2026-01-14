@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: portfolio_2column
 ---
 
 Welcome to my portfolio.
