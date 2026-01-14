@@ -4,6 +4,7 @@ remote_theme: tedivm/jekyll-theme-portfolio
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 email: you@example.com
 github_username: YOURUSERNAME
