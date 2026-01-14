@@ -1,4 +1,4 @@
-title: "Your Name"
+title: "Stef"
 description: "Portfolio"
 remote_theme: tedivm/jekyll-theme-portfolio
 
@@ -6,5 +6,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-email: you@example.com
-github_username: YOURUSERNAME
+email: sxs551@psu.edu
+github_username: sxs551
