@@ -6,14 +6,14 @@ plugins:
   - jekyll-remote-theme
 
 title: "Stefanie Seasholtz"
-name: "Stefanie Seasholtz"
+name: "Applications Developer"
 email: "sxs551@psu.edu"
 website: "https://sxs551.github.io/"
 github_username: "sxs551"
 
 darkmode: false
 
-about_profile_image: images/profile.png
+about_profile_image: profile.png
 about_content: |
   Applicaitons developer specializing in Drupal theming, component-driven UI, accessibility, and performance.
   I build maintainable design systems and ship reliable interfaces with modern CSS and JavaScript.
