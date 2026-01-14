@@ -5,7 +5,7 @@
       github: youruser/nebula
       homepage: https://example.com
       documentation: https://docs.example.com
-      image: assets/images/projects/method.jpg
+      image: method.jpg
       
     - name: GitConsensus
       description: Automates project governance on GitHub using reactions.
