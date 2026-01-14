@@ -7,15 +7,8 @@
       documentation: https://docs.example.com
       image: method.jpg
       
-    - name: GitConsensus
-      description: Automates project governance on GitHub using reactions.
+    - name: Penn State Learning
+      description:  Higher Education
       github: youruser/gitconsensus
-      icon: fab fa-github
+      image: psl.jpg
 
-- name: Libraries
-  projects:
-    - name: MyLibrary
-      description: A reusable library that does a useful thing.
-      github: youruser/mylibrary
-      pypi: mylibrary
-      icon: fas fa-code
